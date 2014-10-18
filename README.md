@@ -1,4 +1,3 @@
-second
-======
+# second
 
-nodejs
+a [Sails](http://sailsjs.org) application
