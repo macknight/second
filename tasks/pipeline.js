@@ -29,6 +29,7 @@ var jsFilesToInject = [
   // Dependencies like jQuery, or Angular are brought in here
   'js/dependencies/jquery.min.js', // do not forget add comma
   'js/dependencies/bootstrap.min.js',
+  'js/dependencies/jquery.validate.min.js',
   'js/dependencies/**/*.js',
 
   // All of the rest of your client-side js files
